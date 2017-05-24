@@ -1,0 +1,11 @@
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVMSDK\bin\Release\UVMSDK.exe
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVMSDK\bin\Release\UVMSDK.pdb
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVMSDK\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVMSDK\obj\Release\UVMSDK.exe
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVMSDK\obj\Release\UVMSDK.pdb
+E:\UVM\UVMSDK\bin\Release\UVMSDK.exe.config
+E:\UVM\UVMSDK\bin\Release\UVMSDK.exe
+E:\UVM\UVMSDK\bin\Release\UVMSDK.pdb
+E:\UVM\UVMSDK\obj\Release\UVMSDK.csprojResolveAssemblyReference.cache
+E:\UVM\UVMSDK\obj\Release\UVMSDK.exe
+E:\UVM\UVMSDK\obj\Release\UVMSDK.pdb

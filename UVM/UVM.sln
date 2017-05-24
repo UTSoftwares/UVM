@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UVM", "UVM\UVM.csproj", "{07D4E3B5-234F-477F-89E1-860C35FB0778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UVMSDK", "UVMSDK\UVMSDK.csproj", "{08C2F10E-6C32-4A68-9DC1-3676275A9713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Signed|Any CPU = Signed|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07D4E3B5-234F-477F-89E1-860C35FB0778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D4E3B5-234F-477F-89E1-860C35FB0778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D4E3B5-234F-477F-89E1-860C35FB0778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D4E3B5-234F-477F-89E1-860C35FB0778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D4E3B5-234F-477F-89E1-860C35FB0778}.Signed|Any CPU.ActiveCfg = Release|Any CPU
+		{07D4E3B5-234F-477F-89E1-860C35FB0778}.Signed|Any CPU.Build.0 = Release|Any CPU
+		{08C2F10E-6C32-4A68-9DC1-3676275A9713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C2F10E-6C32-4A68-9DC1-3676275A9713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C2F10E-6C32-4A68-9DC1-3676275A9713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C2F10E-6C32-4A68-9DC1-3676275A9713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C2F10E-6C32-4A68-9DC1-3676275A9713}.Signed|Any CPU.ActiveCfg = Release|Any CPU
+		{08C2F10E-6C32-4A68-9DC1-3676275A9713}.Signed|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

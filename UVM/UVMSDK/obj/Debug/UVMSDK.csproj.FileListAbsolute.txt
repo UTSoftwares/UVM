@@ -1,0 +1,11 @@
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVMSDK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVMSDK\bin\Debug\UVMSDK.exe
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVMSDK\bin\Debug\UVMSDK.pdb
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVMSDK\obj\Debug\UVMSDK.exe
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVMSDK\obj\Debug\UVMSDK.pdb
+E:\UVM\UVMSDK\bin\Debug\UVMSDK.exe.config
+E:\UVM\UVMSDK\bin\Debug\UVMSDK.exe
+E:\UVM\UVMSDK\bin\Debug\UVMSDK.pdb
+E:\UVM\UVMSDK\obj\Debug\UVMSDK.csprojResolveAssemblyReference.cache
+E:\UVM\UVMSDK\obj\Debug\UVMSDK.exe
+E:\UVM\UVMSDK\obj\Debug\UVMSDK.pdb

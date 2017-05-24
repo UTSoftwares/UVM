@@ -1,0 +1,12 @@
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVM\bin\Release\UVM.exe
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVM\bin\Release\UVM.pdb
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVM\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVM\obj\Release\UVM.exe
+C:\Users\dima13230\Documents\Visual Studio 2008\Projects\UVM\UVM\obj\Release\UVM.pdb
+E:\UVM\UVM\bin\Release\UVM.exe.config
+E:\UVM\UVM\bin\Release\UVM.exe
+E:\UVM\UVM\bin\Release\UVM.pdb
+E:\UVM\UVM\obj\Release\UVM.PasswordDialog.resources
+E:\UVM\UVM\obj\Release\UVM.csproj.GenerateResource.Cache
+E:\UVM\UVM\obj\Release\UVM.exe
+E:\UVM\UVM\obj\Release\UVM.pdb
